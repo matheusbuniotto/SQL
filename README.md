@@ -5,7 +5,7 @@ Para realizar nossas consultas e exercícios vamos utilizar os dados da empresa 
 
 Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes banco de dados
 
-[img](https://camo.githubusercontent.com/332167428d526da1f16e354c07b7ff34ce3ed717f20812a6c37bac283fcbacba/68747470733a2f2f692e696d6775722e636f6d2f485268643259302e706e67)
+<img src="https://i.imgur.com/HRhd2Y0.png" alt="" width="680">
 
 ### SGBD
 SGBD SQLite3 no Microsoft Visual Studio
@@ -18,4 +18,4 @@ SGBD SQLite3 no Microsoft Visual Studio
 
 
 ### Referências:
-[Introdução à Linguagem SQL] (https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616796419&sr=8-1)
+[Introdução à Linguagem SQL](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616796419&sr=8-1)
