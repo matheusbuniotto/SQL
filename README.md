@@ -1,9 +1,18 @@
 # SQL
 
+### Dados utilizados para estudo
+Para realizar nossas consultas e exercícios vamos utilizar os dados da empresa Olist. Os dados são de uma empresa real, que trabalha no ramo de varejo com market places. 
 
- SQL exercicios e estudos utilizando o banco de dados da Olist
+Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes banco de dados
 
+[!img](https://camo.githubusercontent.com/332167428d526da1f16e354c07b7ff34ce3ed717f20812a6c37bac283fcbacba/68747470733a2f2f692e696d6775722e636f6d2f485268643259302e706e67)
+
+### SGBD
+SGBD SQLite3 no Microsoft Visual Studio
+
+### Querys
 1. SELECT, WHERE, FROM, ALIASING
 2. GROUP BY, ORDER BY, NOT NULL
 3. CASE, WHEN, COALESCE 
 4. TIPOS DE JOIN
+
