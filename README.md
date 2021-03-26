@@ -16,3 +16,6 @@ SGBD SQLite3 no Microsoft Visual Studio
 3. CASE, WHEN, COALESCE 
 4. TIPOS DE JOIN
 
+
+### Referências:
+[Introdução à Linguagem SQL] (https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616796419&sr=8-1)
