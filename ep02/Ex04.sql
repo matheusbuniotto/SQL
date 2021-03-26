@@ -4,6 +4,7 @@
 -- Exiba apenas as categorias com tamanho médio de descrição do
 -- objeto maior que 500 caracteres.
 
+
 SELECT  
 product_category_name as categoria,
 product_description_lenght,
@@ -17,4 +18,6 @@ tb_products
 WHERE product_description_lenght > 100
 
 GROUP BY categoria
-ORDER BY med_tam_nome DESC
+HAVING avg(product_description_lenght) > 500
+
+ORDER BY categoria ASC
