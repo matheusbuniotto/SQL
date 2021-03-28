@@ -10,7 +10,7 @@ Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes ban
 ### SGBD
 SGBD SQLite3 no Microsoft Visual Studio
 
-### Querys
+### Queries
 1. SELECT, WHERE, FROM, ALIASING
 2. GROUP BY, ORDER BY, NOT NULL
 3. CASE, WHEN, COALESCE 
