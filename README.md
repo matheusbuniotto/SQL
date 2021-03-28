@@ -16,6 +16,7 @@ SGBD SQLite3 no Microsoft Visual Studio
 3. CASE, WHEN, COALESCE 
 4. JOIN E FILTROS
 5. WITH E SUBQUERYS
+6. WINDOW FUNCTION
 
 
 ### Referências:
