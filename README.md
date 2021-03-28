@@ -23,3 +23,5 @@ SGBD SQLite3 no Microsoft Visual Studio
 [Introdução à Linguagem SQL](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616796419&sr=8-1)
 
 [Trilha SQL](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
+
+[SQLite Documentação](https://sqlite.org/docs.html)
