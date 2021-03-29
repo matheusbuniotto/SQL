@@ -25,3 +25,7 @@ SGBD SQLite3 no Microsoft Visual Studio
 [Trilha SQL](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
 
 [SQLite Documentação](https://sqlite.org/docs.html)
+
+[W3 School](https://www.w3schools.com/sql/)
+
+[Pós-Graduação Análise de Dados - Módulo 03: Bancos Relacionais e Linguagem SQL](https://pucminas.instructure.com/courses/9889)
