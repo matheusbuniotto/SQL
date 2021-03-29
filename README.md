@@ -17,11 +17,15 @@ SGBD SQLite3 no Microsoft Visual Studio
 4. JOIN E FILTROS
 5. WITH E SUBQUERYS
 6. WINDOW FUNCTION
+7. CREATE TABLE E VIEWS
 
-
-#### Referências:
+#### Fontes de estudo:
 [Introdução à Linguagem SQL](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616796419&sr=8-1)
 
 [Trilha SQL](https://www.youtube.com/watch?v=PXftBr56Tow&list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)
 
 [SQLite Documentação](https://sqlite.org/docs.html)
+
+[W3 School](https://www.w3schools.com/sql/)
+
+[Pós-Graduação Análise de Dados - Módulo 03: Bancos Relacionais e Linguagem SQL](https://pucminas.instructure.com/courses/9889)
